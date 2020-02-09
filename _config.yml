@@ -15,12 +15,12 @@ theme: jekyll-theme-cayman
 title: US Roadtrip Summer 2019
 description: An epic 3-week roadtrip in Western US including 10 national parks! #>- # this means to ignore newlines until "baseurl:"
 header: /assets/images/header.jpg
-#email: jannis.born@gmx.de, ninawiedemann999@gmail.com
+email: jannis.born@gmx.de, ninawiedemann999@gmail.com
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: jannisborn
-# github_username:  jannisborn
+twitter_username: jannisborn
+github_username:  jannisborn
 
 
 
