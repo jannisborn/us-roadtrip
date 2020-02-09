@@ -5,22 +5,24 @@
 # yourself editing this file very often, consider using Jekyll's data files
 # feature for the data you need to update frequently.
 #
-theme: jekyll-theme-cayman
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: US Roadtrip Summer 2019
-description: An epic 3-week roadtrip in Western US including 10 national parks! #>- # this means to ignore newlines until "baseurl:"
-header: /assets/images/header.jpg
 email: jannis.born@gmx.de, ninawiedemann999@gmail.com
+description: An epic 3-week roadtrip in Western US including 10 national parks! #>- # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# Variables:
+header: /assets/images/header.jpg
 twitter_username: jannisborn
 github_username:  jannisborn
+
+# Build settings:
+theme: jekyll-theme-cayman
 
 
 
