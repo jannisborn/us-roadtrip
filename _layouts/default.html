@@ -1,3 +1,8 @@
+
+---
+header: /assets/images/header.jpg
+---
+
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
@@ -23,7 +28,7 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Morning_Glory_Pool_Yellowstone_National_Park.jpg/2560px-Morning_Glory_Pool_Yellowstone_National_Park.jpg" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
+      <img src="{{ page.header | default: site.header }}" alt="{{ page.title | default: site.title | default: site.github.repository_name }}" class="project-name" />
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
 
       {% if site.github.is_project_page %}
