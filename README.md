@@ -45,4 +45,22 @@ On the first day we hit the road and cover quite some distance to get to the nat
 
 ### Day 3: Alpine - Rockefeller State Park
 
+Wyoming appeared to us as the state closest to all Wild Western movies. In **Jackson**, half of the shops are made for Cowboys, with a large collection of cowboy hats and lots of gear, for example bear spray which is recommended to carry on the trip further to the north. In Jackson there is also a park with gates made of antlers. 
+
+After Jackson we reach the first national park on our trip, **Grand Teton**. The drive itself is amazing, crossing the plateau with snowy mountains on the side. There are several nice hikes, for example we walked to **Bradley and Taggart Lake**. We visited in June and it was still very snowy, but if it is possible, it would probably be a great tour to walk up **Paintbrush Canyon** and back through **Cascade Canyon**. We left Grand Teton and camped right outside in Rockefeller State Park, there is a parking lot close to a lake were several people parked their cars and campervans.
+
+### Day 4: Rockefeller State Park - Yellowstone NP West Entrance
+
+Although Grand Teton was impressive, **Yellowstone** is a different level because there are not many vulcanic areas in the world that you can visit. For example, Yellowstone is one out of four places in the world with active geysires. Most importantly, Old Faithful geysir erupts quite regularly every 90 minutes in is spectaculous. For the drive through the park you should plan some time, because there is stops every few kilometers with hot springs, bubbling mud pools, geysires and lakes. 
+
+We drove west on the 8-shaped loop, and visited **Old Faithful**, **Grand Prismatic Springs**, **Biscuit Basin** and **Lower Geysir Basin**. We also did a 2h hike to **Fairy Falls* where you can get a beautiful view on the whole park, with dense forests interrupted by volcanic areas. In the evening we camped on Madison campground. Note that you have to reserve around one day in advance (and during holidays probably more). 
+
+### Day 5  Yellowstone NP West - Yellowstone East
+
+Apart from volcanic formations, a main attraction in Yellowstone are the animals. We saw a lot more of them in the northern part of the loop drive, starting with some bisons and Waipiti, and one wolves on this day. We had breakfast at **Norris Geysir Basin** with the **Steamboat Geysir**, and after some smaller stops we reached the north entrance of the park. Even after seeing lots of hot springs until then, we are amazed by the **Mammoth Hot Springs** which stand out because of their terrace formations, building cascades of colourful waterfalls. 
+
+We shortly left the park through the north entrance for a visit to Montana and the city **Gardiner**, where we were back to civilization for a bit (there is hardly any mobile network connection in the park). Continuing our ride through the park, we were lucky to see a couple of **black bears** close to the **Petrified tree**. In the evening we climbed down a track at the **Tower Falls** to a nice little riverside place. We camped not far from the East Entrance at **Canyon Campground**.
+
+ 
+
 ToDo
