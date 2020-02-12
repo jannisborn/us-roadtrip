@@ -61,6 +61,18 @@ Apart from volcanic formations, a main attraction in Yellowstone are the animals
 
 We shortly left the park through the north entrance for a visit to Montana and the city **Gardiner**, where we were back to civilization for a bit (there is hardly any mobile network connection in the park). Continuing our ride through the park, we were lucky to see a couple of **black bears** close to the **Petrified tree**. In the evening we climbed down a track at the **Tower Falls** to a nice little riverside place. We camped not far from the East Entrance at **Canyon Campground**.
 
- 
+### Day 6: Yellowstone East - Cody
+
+Before leaving Yellowstone, we visit its last attraction, the **Grand Canyon of Yellowstone**. Although not comparible in size with the real Grand Canyon, it offers amazing views of beautiful waterfalls on sand-coloured rocks. We took a round trip track of around 2h along the Canyon and then back through forests and along lakes, where it can happen that suddenly there is a bubbling mud pool to the side of the path.
+
+At east entrance some bisons watch from the side of the road how we are leaving Yellowstone and head towards **Cody**, the 'Capital of Rodeo'. When planning our trip, we considered going back to the south via Jackson again, because driving through Cody and Thermopolis adds quite a few kilometers, but in the end we decided for Cody because we wanted to see some more of Wyoming. Our hopes were fulfilled - In Cody we felt like in a Western movie. In the evening we went to see a **rodeo** in its most authentic version, and afterwards we went to Buffalo Bill Bar, had a Whiskey and talked to one of the bull riders. Coming from Europe, Cody is as cliché wild west as it can get.
+
+### Day 7: Cody - Green River
+
+Although it is rather a road trip day with a long distance, we get to see several unusual sights on the way. First, we stop in **Thermopolis**, which demonstrates the vastness of the vulcanic area in Wyoming with some more hot pools. The secret tip there is to use the free public baths with water heated from geothermal energy (we appreciated that a lot after camping and bathing in lakes for a few days). Secondly, we take a short detour from **Lander**, a town at the edge of **Wind River Reservation**, a huge Indian reservate. A 20 minutes drive takes us to **Sinks Canyon State Park** which has a truly fascinating sight: At one point in the park, a river vanishes underground, to re-appear a few hundred meters further out of nowhere. It has only been shown by colouring the water that both are connected, but no ones knows the path the water takes underground.
+
+Last, we stop in South Pass City, a ghost town. You can stroll through the street in the evening on your own, reading about the gold rush, or take a guided tour during the day. Finally our trip takes us to **Green River** where we were lucky to visit a random party of ''Flaming Gorge Days'' and dance with some teenagers.
+
+  
 
 ToDo
