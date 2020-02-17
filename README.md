@@ -73,6 +73,20 @@ Although it is rather a road trip day with a long distance, we get to see severa
 
 Last, we stop in South Pass City, a ghost town. You can stroll through the street in the evening on your own, reading about the gold rush, or take a guided tour during the day. Finally our trip takes us to **Green River** where we were lucky to visit a random party of ''Flaming Gorge Days'' and dance with some teenagers.
 
+### Day 8: Green River - Arches NP
+
+We drive a long distance on that day because there is a vast area in Utah with not many major attractions, but still very nice viewpoints and smaller spots on the way. Actually it is worth taking some more time for **Flaming Gorge**, a beautiful canyon with red rock faces and lots of green areas around. We drive along the west side because it is the more scenic drive, and stop at a couple of viewpoints and take a short walk that takes us to a great photo spot right at the cliff. 
+
+Our route continues to more monotonic landscape through the desert, where there is lots of turnouts to oil industry. We stop in Vernal, and drive west to see a little bit of Colorado. The landscape changes dramatically after the small town **Dinosaur**, it is hilly and a lot more green than around Vernal. Finally, we reach our destination north of Arches NP, where we set up our camp in the flat and very windy desert. After our tent was almost blown away, we changed plans and slept in the car.
+
+### Day 9: Arches NP - Manti La Se National Forest
+
+In our visit to **Arches NP** we were kind of proud of a major trick we came up with - Instead of entering the park through the main entrance, and taking the dead end road into the park, we discovered a smaller dirt road where you can enter the park from the north. This had several advantages: You do not have to drive the same route forth and back into the park, and also, you pass some nice attractions which are not as crowded as the other sights along the main road (because you can only access them via the dirt road). We did not have a 4WD car and it was still fine, possibly depending on the season though. We stopped on the way at **Tower Arch** which you can reach via a short hike through the red rocks, shaped extraordinarily by erosion. You can climb up Tower Arch and get a great view, and the best part is that there were hardly any other people.
+
+Along the main road through the park there are a lot more such formations, including **Landscape Arch**, **Devil's Garden**, **Fiery Furnace** and so on. Most of them are close to the road, so we actually just spend a few hours in the park, although it is of course possible to stay there a lot longer when you want to do all the walks and see all arches.
+
+We continued south, towards Monument Valley. We decided to take some stops at smaller and less well-known places on the way, including firstly the **Manti La Se National Forest** where you can cool down from the hot days in the desert and enjoy some mountain views.
+
   
 
 ToDo
