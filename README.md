@@ -85,8 +85,24 @@ In our visit to **Arches NP** we were kind of proud of a major trick we came up 
 
 Along the main road through the park there are a lot more such formations, including **Landscape Arch**, **Devil's Garden**, **Fiery Furnace** and so on. Most of them are close to the road, so we actually just spend a few hours in the park, although it is of course possible to stay there a lot longer when you want to do all the walks and see all arches.
 
-We continued south, towards Monument Valley. We decided to take some stops at smaller and less well-known places on the way, including firstly the **Manti La Se National Forest** where you can cool down from the hot days in the desert and enjoy some mountain views.
+We continued south, towards Monument Valley. We decided to take some stops at smaller and less well-known places on the way, including firstly the **Manti La Se National Forest** where you can cool down from the hot days in the deser, enjoy some mountain views and set up camp for free in the forest.
 
-  
+### Day 10: Manti La Se National Forest - Monument Valley
+
+Instead of heading south to Monument Valley directly, we spontanously take a detour to the **National Bridges Monument**. As it is not as popular (surrounded by Monument Valley and a few national parks), we did not expect much, but it turned out that it was completely worth it going there. In this arrea the river carved a beautifully curved canyon into the landscape, leaving thin bridges overhead. We can recommend to hike down into the canyon at one of the three bridges, and follow the dried river until you reach a second bridge where you can get back up to the road. In total it takes around four hours to do a return trip.
+
+After visiting the bridges, our navigation system tried to send us back the way we came, to drive south on the highway. To avoid this lengthy drive, we decided to take the risk and go south, on a small bumpy road. Again, it was totally worth it - you get an awesome view from high up the cliffs onto the spurs of **Monument Valley** and some palace-like rock formations. The road is called **Moki Dugway** and winds down the cliff with spectaculous views of the **Valley of God**. 
+
+Don't miss out the **Mexican hat** monument close to the village of the same name, before entering **Monument Valley** where we arrived in the evening and enjoyed the sunset in this very special place. 
+
+### Day 11: Monument Valley - Page
+
+In the morning, the sun rises right above the monuments. Luckily, we were able to borrow bikes from a local (unfortunately there is no officiel bike rental so far), and went around the 13-miles-drive through the valley by bike. All the formations are quite different, and each time we were again astonished to see what nature is able to form. 
+
+We left the valley and headed west towards **Page**. On the way, we stopped at **Navajo National Monument** where you can visit an archaelogical site and learn about ancestral people living in the area. Right before Page, we reached another attraction which we could visit right before its closing in the evening: **Lower Antilope Canyon**. Even after seeing all the formations in Monument Valley, we were still completely amazed by this one. Just walking through the narrow canyon, where the light makes the walls shine in red and orange, is an incredible experience. 
+
+Although the day was already full of impressions, we took our dinner to another canyon named **Horseshoe Bend** to see the sunset. We slept in a motel in Page to finish this day with a shower and a nice soft bed.
+
+### Day 12: Page - Grand Canyon
 
 ToDo
