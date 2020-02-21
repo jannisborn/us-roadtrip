@@ -14,7 +14,7 @@ theme: jekyll-theme-cayman
 # in the templates via {{ site.myvariable }}.
 title: US Roadtrip Summer 2019
 email: jannis.born@gmx.de, ninawiedemann999@gmail.com
-description: An epic 3-week roadtrip in Western US including 10 national parks! #>- # this means to ignore newlines until "baseurl:"
+description: An epic 3-week roadtrip in Western US including 9 national parks! #>- # this means to ignore newlines until "baseurl:"
 
 # Variables:
 header: /assets/images/header.jpg
