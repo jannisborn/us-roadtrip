@@ -110,7 +110,6 @@ We had a lot of respect from this hike (some people actually die by hiking into 
 To reduce weight, we hiked down without a tent but only with blankets and camping mats. It was dry and hot and the starlit sky was damn impressive so this turned out to be a smart decision although the rustling of the roaming animals during the night was a little frightening. 
 
 ### Day 13: Grand Canyon (AZ) - Springdale (UT)
-If you're a nature lover, hiking *into* the canyon is by far the best thing you can do at Grand Canyon. The viewpoints right at the rim are crowded with tourists and not necessarily better than what you see while hiking down. Once you are on the trail you see much less people but have actually the time to absorb the uniqueness and enormousness of this place.
 Way before the sunrise, we started our hike back up to the North rim at 5am. It is recommended to not hike the Grand canyon between 11am and 3pm since there is no escape from the baking sun. We returned to civilization (tourist center at north rim) by around 11am and after a short exploration of the crowded touristy spots, we headed off to the **Cape Royal Point** to see **Angel's Window**, a spectacular viewpoint with a 270 degree panorama into the canyon. The most delicate thing about Angel's Window is that it is the only point along the north rim where you can actually see all the way down to the Colorado river (remember that over the milleniums the river has milled 1700m down into the soft sandstone of the Colorado plateau, so it's not trivial to see a river at 800m when you stand at 2500m at the rim). Although this is a ~25mile one-way route, it is absolutely worth it. Afterwards, we leave the Grand canyon area and drive towards Zion national park. Zion welcomes us in the late afternoon with eroded, widely curved rock formation, yet another form of erosion we haven't encountered before. We sleep in the car in Springdale on a parking lot.
 
 ### Day 14: Springdale (UT) - Las Vegas (NV)
@@ -160,3 +159,12 @@ The loop in Yosemite Valley is of perfect length for a bike tour. We picked up t
 Only five minutes later we reached the next turnout to the **Mirror Lake**. We took a lunch break there and had a bath in the cool water. Afterwards we had a longer bike ride through the more populated area of the park, until we reach **Camp 4**, a place that became even more famous with the Free Solo movie. Once more we leave our bikes and take the short hike to the starting point for climbing **El Capitan**. Failing miserably even at just clamping on the granite wall, we were even more astonished of the idea to climb up without a rope.
 
 In the shine of the evening sun we shortly visited **Bridalveil Falls**, and then gave back our bikes. We used the evening to cover some of the distance to San Francisco, leading through the outskirts of **Stanislaus National Forest**. We sleep in a small town simply in our car.
+
+### Day 22 Stanislaus National Forest (CA) - San Francisco (CA)
+
+The last day of our trip starts in the backland of California, at the calm and remote Stanislaus river. We decide to indulge our shared interest in Tech and software and spend the day in the Silicon Valley (Mountain View) and visit the Google Campus. The campus is impressive, there's a volleyball pitch, own residencens and free bikes to cruis around - actually the campus is so big that we loose each other for almost 30 minutes (fail of the day!).
+We can highly recommend the Computer History Museum which is quite inexpensive (15$) but offers enough content to easily spend 3h and learn about the history of computer science. We then spend the last evening at the Shoreline park, right next to the Google headquarters. Only slowly we are realizing that our adventure now comes to an end.
+Overall, we are incredibly thankful for having had the privilege to do this wonderful trip and we were and still are super satisfied with the travel route and decisions we've made.
+
+All the best & stay safe,
+Jannis & Nina
