@@ -1,6 +1,8 @@
 # Western USA roadtrip
 In summer 2019, we did a roadtrip in Western US. The purpose of this website is to share our quite unusual travel route.
 
+[If you don't see HMTL, click here.](https://jannisborn.github.io/us-roadtrip/)
+
 
 ## The route
 <div style="left: 0; height: 0; position: relative; width: 100%; padding-bottom: 75%;"><iframe frameborder="0" style="top: 0; height: 0; position: absolute; height: 100%; width: 100%;" src="https://trips.furkot.com/widget/ts/IoD51N"></iframe></div>
